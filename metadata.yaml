@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6098
     wikipedia: http://en.wikipedia.org/wiki/William_Cobbett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15510#Advice-to-Young-MenAnd--Incidentally--to-Young-Women-in-the-Middle-and-Higher-Ranks-of-Life.-_
 gutenberg_issued: '2005-03-30'
 gutenberg_type: Text
 identifiers:
