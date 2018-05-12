@@ -1,0 +1,36 @@
+_repo: Advice-to-Young-MenAnd--Incidentally--to-Young-Women-in-the-Middle-and-Higher-Ranks-of-Life.-__15510
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cobbett, William
+    aliases:
+    - Porcupine, Peter
+    - Cobbet, William
+    - Cobbett, Wm. (William)
+    - Retort, Dick
+    birthdate: 1763
+    deathdate: 1835
+    gutenberg_agent_id: '6098'
+    url: http://www.gutenberg.org/2009/agents/6098
+    wikipedia: http://en.wikipedia.org/wiki/William_Cobbett
+description: ''
+gutenberg_issued: '2005-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15510'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Conduct of life'
+title: 'Advice to Young Men
+
+  And (Incidentally) to Young Women in the Middle and Higher Ranks of Life. In a Series
+  of Letters, Addressed to a Youth, a Bachelor, a Lover, a Husband, a Father, a Citizen,
+  or a Subject.'
+url: http://www.gutenberg.org/ebooks/15510
